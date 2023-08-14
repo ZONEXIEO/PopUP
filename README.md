@@ -4,3 +4,4 @@ The images are displayed in separate windows using multiprocessing, and the cons
 **Please note that this program was created for educational purposes only. Additionally, I want to emphasize that I bear no responsibility for any illegal use of this program.**.
 
 To use the script, you need to download the files and install all the required libraries in the terminal using this command: **pip install -r requirements.txt.**
+To get the best experience of the program, you can change the settings according to your wishes and requirements.
